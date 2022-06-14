@@ -1,1 +1,1 @@
-my second readme for my first directory
+my second readme fore my first directory
